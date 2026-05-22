@@ -1,0 +1,7 @@
+# UPSTREAM_VERSION="V26.03.00"
+git_src_commit 3e05ba9c2640a85cac1f408a423d25e712677fa1 https://github.com/fwts/fwts.git
+
+version="26.03.00-0"
+version_suffix="gl0"
+
+apply_patches

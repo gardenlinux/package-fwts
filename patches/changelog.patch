@@ -1,0 +1,14 @@
+diff --git a/debian/changelog b/debian/changelog
+index d9009c1e..5a25d18a 100644
+--- a/debian/changelog
++++ b/debian/changelog
+@@ -1,3 +1,9 @@
++fwts (26.03.00-0) testing; urgency=medium
++
++  * rebuild for Garden Linux
++
++ -- Garden Linux Team <contact@gardenlinux.io>  Fri, 08 May 2026 09:00:00 +0000
++
+ fwts (26.03.00-0ubuntu1) resolute; urgency=medium
+ 
+   [Ivan Hu]
